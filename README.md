@@ -7,7 +7,7 @@ with embedded systems in the public transportation industry someday🚅
 
 - 🔭 I’m currently working on a custom scripting Minecraft plugin, an ETCS simulator, and my personal website.
 - 🌱 I’m currently learning C#, AWS, ERTMS.
-- ⚡ Fun fact: The Chuo Linear Maglev in Japan will have a top operating speed of 505 km/h (314 mph). A trip from Tokyo to Osaka (~500 km/310 mi) would only take ~1hr. To put that in perspective, a trip from SF to LA (~600 km/~380 mi) at that speed would only take ~1h20m.
+- ⚡ Fun fact: The Chuo Linear Maglev in Japan holds the world rail speed record of 603 km/h (375 mph).
 <!--
 **diegomesc/diegomesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
